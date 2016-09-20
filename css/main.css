@@ -54,7 +54,8 @@ body, .details {
 }
 
 dd {
-  margin:0 0 10 0;
+  margin:0px;
+  margin-bottom:10px;
 }
 
 h2{
