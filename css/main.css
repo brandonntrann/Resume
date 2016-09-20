@@ -115,12 +115,4 @@ h2{
   float:left;
   width:50%;
 }
-.profile{
-  text-align:center;
-  border-style:solid;
-  border-color:#037483 ;
-  border-width: 10px;
-  width:175px;
-  margin-left:350px;
-  border-radius:20px;
-}
+
