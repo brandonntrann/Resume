@@ -67,7 +67,7 @@ h2{
   list-style-type:none;
   margin:0px 0px 10px 0px;
 }
-  
+
 .skills ul {
     list-style-type:none;
   margin:0px 0px 10px 0px;
@@ -114,4 +114,13 @@ h2{
 .half{
   float:left;
   width:50%;
+}
+.profile{
+  text-align:center;
+  border-style:solid;
+  border-color:#037483 ;
+  border-width: 10px;
+  width:175px;
+  margin-left:350px;
+  border-radius:20px;
 }
