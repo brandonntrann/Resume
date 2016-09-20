@@ -69,7 +69,7 @@ h2{
 }
 .skills li{
   float:left;
-  margin: 0 10px 10px 0;
+  margin: 0px 10px 10px 0px;
   font-size:85%;
   background:#343439;
   color:white;
@@ -84,7 +84,7 @@ h2{
 
 .misc li{
   float:left;
-  margin: 0 10px 10px 0;
+  margin: 0px 10px 10px 0px;
   font-size:85%;
   background:#343439;
   color:white;
